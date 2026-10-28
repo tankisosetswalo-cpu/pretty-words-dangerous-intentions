@@ -1,0 +1,40 @@
+# Cybersecurity Incident Report Template
+
+Use this template to document a suspected cybersecurity incident. Submit it through your organization's approved reporting channel.
+
+ 1. Incident Details
+- Date and time observed:
+- Date reported:
+- Person reporting (if required):
+- Department or class (if applicable):
+
+ 2. Incident Type
+Select the closest match:
+- [ ] Phishing email or message
+- [ ] Suspicious phone call or impersonation
+- [ ] Suspected malware
+- [ ] Account compromise
+- [ ] Lost or stolen device
+- [ ] Other:
+
+ 3. Incident Description
+Describe what happened, including relevant dates and the application or device involved. Do not include passwords or verification codes.
+
+Description:
+
+ 4. Actions Taken
+- Was a link opened? Yes / No / Unsure
+- Were any details shared? Yes / No / Unsure
+- Was the incident reported to IT? Yes / No
+- Other actions taken:
+
+ 5. Evidence
+List relevant evidence, such as the sender address, message subject, time received, or a screenshot with sensitive information removed. Do not forward suspicious attachments unless instructed by IT.
+
+ 6. For IT/Security Team Use
+- Case/reference number:
+- Assigned analyst:
+- Actions taken:
+- Status:
+
+Important: Do not put real passwords, authentication codes, or unnecessary personal information in this report or in a public GitHub repository.
